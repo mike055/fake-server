@@ -1,7 +1,9 @@
 {
-  "name": "mike055",
-  "data": {
-    "numberOfFriends": null,
-    "isAustralian": null
+  "profile": {
+    "name": "mike055",
+    "data": {
+      "numberOfFriends": null,
+      "isAustralian": null
+    }
   }
 }
